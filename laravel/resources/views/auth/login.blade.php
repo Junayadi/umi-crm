@@ -8,7 +8,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ asset('css/umi.css') }}">
 </head>
-<body>
+<body class="login-page">
 <section class="login">
   <svg class="route" viewBox="0 0 1200 700" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><path d="M-20 560C260 160 640 720 1220 110" fill="none" style="stroke:var(--bg);stroke-opacity:1" stroke-width="2" stroke-dasharray="2 11" stroke-linecap="round"/><circle cx="90" cy="470" r="6" style="fill:var(--bg)"/><circle cx="1110" cy="168" r="6" style="fill:var(--bg)"/></svg>
 
